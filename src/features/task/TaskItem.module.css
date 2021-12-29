@@ -1,0 +1,15 @@
+.listItem {
+    padding-bottom: 30px;
+}
+
+.checkBox {
+    margin-right: 30px;
+}
+
+.taskTitle {
+    text-align: center;
+}
+
+.deleteButton {
+    margin-left: 30px;
+}
